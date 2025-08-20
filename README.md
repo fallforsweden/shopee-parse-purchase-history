@@ -42,15 +42,19 @@ how to run the apps :
 Q&A
 
 Q : Error NoSuchElement .ashFMQ?
+
 A : kalo itu sih biasa nya antibot tracking nya shopee. kamu masuk ke shopee pake firefox trus nanti biasa nya kamu suruh bypass captcha nya (geser geser puzzle sih biasanya). trus jalanin lagi app nya.
-
+---
 Q : Pengen lebih banyak lagi datanya, kalo bisa sampe mentok!!!!
+
 A : app nya itu di desain buat scroll sampe 400 container item aja kalo kalian mau sampe mentok berarti ganti aja variable itemTargetCount di line 34 dari 400 jadi 1000 atau lebih (gak tanggung kalo crash browser nya hehehe) dan juga semakin banyak datanya semakin lama juga app nya bekerja jadi resiko ditanggung pemenang ya
-
+---
 Q : Kok ada tanggal yang kosong?
-A : berarti pembelian tersebut dibatalkan
 
+A : berarti pembelian tersebut dibatalkan
+---
 Q : tapi ini produk yang dikembalikan juga masuk?
+
 A : iya dia ngambil semua item yang ada dikolom "selesai" jadi meskipun itemnya dikembalikan, dia tetep ada disana. mungkin kedepannya bisa kita filter, tapi untuk sekarang manual dulu yaa hehe
 
 mau tanya yang lain lain? bisa langsung DM twitter aja ya, aktif banget kok disana.
@@ -62,3 +66,4 @@ future features [ kalo gak sibuk, banyak tugas kuliah >:( ] :
 
 
 thank you! and no AI were harmed during the process of making this program! (ada satu sih buat bikin headless mode tapi diem diem aja yaaa ssssttt)
+
