@@ -40,6 +40,7 @@ how to run the apps :
 5. doneeee! nanti file csv nya ada di folder yang sama dengan main.py
 
 Q&A
+
 Q : Error NoSuchElement .ashFMQ?
 A : kalo itu sih biasa nya antibot tracking nya shopee. kamu masuk ke shopee pake firefox trus nanti biasa nya kamu suruh bypass captcha nya (geser geser puzzle sih biasanya). trus jalanin lagi app nya.
 
@@ -58,5 +59,6 @@ mau tanya yang lain lain? bisa langsung DM twitter aja ya, aktif banget kok disa
 future features [ kalo gak sibuk, banyak tugas kuliah >:( ] : 
 - filter item yang sudah dikembalikan
 - mungkin bisa filter per-bulan dan bukan per-scroll
+
 
 thank you! and no AI were harmed during the process of making this program! (ada satu sih buat bikin headless mode tapi diem diem aja yaaa ssssttt)
