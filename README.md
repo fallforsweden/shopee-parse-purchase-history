@@ -65,6 +65,7 @@ future features [ kalo gak sibuk, banyak tugas kuliah >:( ] :
 - mungkin bisa filter per-bulan dan bukan per-scroll
 
 
-thank you! and no AI were harmed during the process of making this program! (ada satu sih buat bikin headless mode tapi diem diem aja yaaa ssssttt)
+thank you! and no AI were harmed during the process of making this program!
+
 
 
